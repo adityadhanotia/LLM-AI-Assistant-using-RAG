@@ -38,4 +38,5 @@ The LLM takes the query and the relevant chunks of text to create a prompt and g
     pip install "unstructured[md]"
     ```
 
+![Python Data Science Handbook](DS_handbook_ss.png)
 
